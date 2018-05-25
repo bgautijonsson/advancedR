@@ -1,0 +1,11 @@
+---
+title: "Chapter 1: Introduction"
+author: "Brynjólfur Gauti Jónsson"
+date: "`r Sys.Date()`"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, message = FALSE, warning = FALSE)
+```
+
